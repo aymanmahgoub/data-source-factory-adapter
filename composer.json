@@ -1,0 +1,12 @@
+{
+    "name": "aymanmahgoub/data-source-factory-adapter",
+    "description": "a consumer that process products from different data sources of varying data formats",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ayman Mahgoub",
+            "email": "ayman.mahgoub1@gmail.com"
+        }
+    ],
+    "require": {}
+}

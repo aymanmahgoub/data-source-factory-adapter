@@ -5,7 +5,7 @@ namespace App ;
 use  App\src\DataSources\DataSourceFactory ;
 
 class Consumer   {
-    private       $dataSource;
+    private     $dataSource;
 
     /**
      * Consumer constructor.
